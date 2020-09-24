@@ -1,0 +1,1 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}.button-box{text-align:center;margin:0 auto}button{height:100px;width:30%;border:1px solid #000;border-radius:10px}button:hover{background-color:green;cursor:pointer;transition:all .5s ease;outline:none}
